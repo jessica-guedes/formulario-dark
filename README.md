@@ -1,5 +1,6 @@
 # formulario-dark
- Formulário responsivo simples com HTML e CSS.
+ Tela de Login responsiva simples com HTML e CSS. <br>
+ O tutorial de como fazer está no canal do Markzuel no YouTube <a href = "https://www.youtube.com/watch?v=69-WfrVBli8">clique aqui</a>.
  
 <p align = "center">
   <img width="1000" height="500" src="assets/response.png">
